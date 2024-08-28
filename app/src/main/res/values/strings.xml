@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Short News</string>
+    <string name="title_activity_main">Short News</string>
+    <string name="empty_state_message">No news available as of now.\nPlease check in sometime</string>
+</resources>

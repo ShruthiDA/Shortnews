@@ -1,0 +1,26 @@
+object Versions {
+    const val  coreKtx = "1.13.1"
+    const val  appcompat= "1.7.0"
+    const val  material= "1.6.8"
+    const val  lifecycleRuntimeKtx= "2.8.4"
+    const val  compose= "2024.06.00"
+    const val  activityCompose= "1.9.1"
+    const val  navigationCompose = "2.7.7"
+    const val  lifeCycleViewModelKtx= "2.8.4"
+    const val hilt = "2.51.1"
+    const val hiltCompiler = "1.2.0"
+    const val hiltNavigationCompose = "1.2.0"
+    const val material3 = "1.2.1"
+    const val tooling = "1.6.8"
+
+    const val retrofit = "2.9.0"
+    const val okhttp = "4.12.0"
+    const val gson = "2.9.0"
+    const val moshi = "1.15.1"
+    const val moshiConverter = "2.11.0"
+    const val loggingInterceptor = "4.12.0"
+
+    const val coroutines = "1.8.1"
+    const val splash = "1.0.1"
+    const val coil = "2.7.0"
+}
